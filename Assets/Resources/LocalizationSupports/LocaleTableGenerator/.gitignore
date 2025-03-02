@@ -8,3 +8,7 @@ wheels/
 
 # venv
 .venv
+
+# misc
+*.meta
+.DS_Store
