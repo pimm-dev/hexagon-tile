@@ -1,0 +1,26 @@
+Key,English(en),Korean(ko)
+Common.GameTitle,Hexagon Tile,육각타일
+Common.Text.GameTitle,Hexagon Tile,육각타일
+Common.Text.Yes,Yes,예
+Common.Text.No,No,아니오
+Common.Text.Confirm,Confirm,확인
+Common.Text.Cancel,Cancel,취소
+IntroSceneUI.Text.GameStart,Game Start,게임 시작
+IntroSceneUI.Text.Settings,Settings,환경 설정
+IntroSceneUI.Text.QuitGame,Quit Game,게임 종료
+IntroSceneUI.Dialogue.QuitGameCheck,Quit the Game?,게임을 종료할까요?
+OptionSceneUI.Text.MasterVolume,Master Volume,전체 볼륨
+OptionSceneUI.Text.BackgroundVolume,BGM Volume,배경 음악
+OptionSceneUI.Text.SoundEffectsVolume,SFX Volume,효과음
+InGameUI.Text.Stage,Stage,스테이지
+InGameUI.Text.RemainCandies,Remain Candies,남은 사탕
+InGameUI.Text.ActionPoints,Action Points,액션 포인트
+InGameUI.Text.Settings,Settings,환경 설정
+InGameUI.Text.QuitToTitle,Quit to Title,나가기
+InGameUI.Text.Undo,Undo,되돌리기
+InGameUI.Text.Clear,Clear!,클리어!
+InGameUI.Text.Failed,Failed..,실패..
+InGameUI.Text.NextLevel,Next Level,다음 레벨
+InGameUI.Text.Restart,Restart,다시 시작
+InGameUI.Text.Retry,Retry,다시 시도
+InGameUI.Dialogue.RestartCheckDialogue,Restart a new game?,다시 시작할까요?

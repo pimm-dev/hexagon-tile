@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: System_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 63208040ee2964ca4ae2ade024faa118, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1149050123444224
+    m_Localized: Stage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149050136027136
+    m_Localized: Remain Candies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149050136027137
+    m_Localized: Action Points
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019393
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019394
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019395
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019396
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019397
+    m_Localized: Game Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019399
+    m_Localized: Quit Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019400
+    m_Localized: Master Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019401
+    m_Localized: BGM Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019402
+    m_Localized: SFX Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019404
+    m_Localized: Quit to Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1154116838481920
+    m_Localized: Hexagon Tile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1154116838481921
+    m_Localized: Hexagon Tile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1154937084960768
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1154937084960769
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1156638605041664
+    m_Localized: Quit the Game?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1156638605041665
+    m_Localized: Restart a new game?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455229777207296
+    m_Localized: Undo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455229777207297
+    m_Localized: Clear!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455229777207298
+    m_Localized: Failed..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455229777207299
+    m_Localized: Next Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455229777207300
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455229777207301
+    m_Localized: Retry
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

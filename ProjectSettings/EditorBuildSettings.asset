@@ -14,4 +14,6 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/MapMaker.unity
     guid: ab957eacbdaa96947af224320248fb09
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 6e95167d6c43349d9909386f5783ce20, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: c9beb104124734225adc22b6a82427af, type: 2}

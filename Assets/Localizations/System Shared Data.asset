@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: System Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: System
+  m_TableCollectionNameGuidString: 63208040ee2964ca4ae2ade024faa118
+  m_Entries:
+  - m_Id: 1154116838481920
+    m_Key: Common.GameTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1154116838481921
+    m_Key: Common.Text.GameTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019393
+    m_Key: Common.Text.Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019394
+    m_Key: Common.Text.No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019395
+    m_Key: Common.Text.Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019396
+    m_Key: Common.Text.Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019397
+    m_Key: IntroSceneUI.Text.GameStart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1154937084960768
+    m_Key: IntroSceneUI.Text.Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019399
+    m_Key: IntroSceneUI.Text.QuitGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1156638605041664
+    m_Key: IntroSceneUI.Dialogue.QuitGameCheck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019400
+    m_Key: OptionSceneUI.Text.MasterVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019401
+    m_Key: OptionSceneUI.Text.BackgroundVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019402
+    m_Key: OptionSceneUI.Text.SoundEffectsVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149050123444224
+    m_Key: InGameUI.Text.Stage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149050136027136
+    m_Key: InGameUI.Text.RemainCandies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149050136027137
+    m_Key: InGameUI.Text.ActionPoints
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1154937084960769
+    m_Key: InGameUI.Text.Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153372425019404
+    m_Key: InGameUI.Text.QuitToTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455229777207296
+    m_Key: InGameUI.Text.Undo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455229777207297
+    m_Key: InGameUI.Text.Clear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455229777207298
+    m_Key: InGameUI.Text.Failed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455229777207299
+    m_Key: InGameUI.Text.NextLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455229777207300
+    m_Key: InGameUI.Text.Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1455229777207301
+    m_Key: InGameUI.Text.Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1156638605041665
+    m_Key: InGameUI.Dialogue.RestartCheckDialogue
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2662770371513024536
+  references:
+    version: 2
+    RefIds:
+    - rid: 2662770371513024536
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1740567463945
